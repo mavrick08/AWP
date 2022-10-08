@@ -1,0 +1,98 @@
+
+name = pd.Series([
+    'Benjamin Duran',
+    'Benjamin Duran',
+    'Benjamin Duran',
+    'Benjamin Duran',
+    'Benjamin Duran',
+    'Benjamin Duran',
+    'Safila Hatfield',
+    'Safila Hatfield',
+    'Safila Hatfield',
+    'Safila Hatfield',
+    'Safila Hatfield',
+    'Safila Hatfield',
+    'Toni Doyle',
+    'Toni Doyle',
+    'Toni Doyle',
+    'Toni Doyle',
+    'Toni Doyle',
+    'Toni Doyle'
+
+])
+
+
+class_ = pd.Series([
+    'A',
+    'A',
+    'A',
+    'A',
+    'A',
+    'A',
+    'B',
+    'B',
+    'B',
+    'B',
+    'B',
+    'B',
+    'C',
+    'C',
+    'C',
+    'C',
+    'C',
+    'C'
+])
+
+Lectures = pd.Series([
+    'Maths',
+    'Chemistry',
+    'Physics',
+    'History',
+    'Geography',
+    'Science',
+    'Maths',
+    'Chemistry',
+    'Physics',
+    'History',
+    'Geography',
+    'Science',
+    'Maths',
+    'Chemistry',
+    'Physics',
+    'History',
+    'Geography',
+    'Science'
+])
+
+Grades = pd.Series([
+    90,
+    54,
+    77,
+    22,
+    25,
+    70,
+    90,
+    90,
+    90,
+    45,
+    90,
+    90,
+    70,
+    44,
+    56,
+    77,
+    35,
+    99
+])
+
+
+Credits = pd.Series([
+    6,6,6,5,5,4,6,6,6,5,5,4,6,6,6,5,5,4
+])
+
+retake = pd.Series([
+    'No','No','No','Yes','Yes','No','No','No','No','No','No','No','No','Yes','No','No','Yes','No'
+])
+
+
+
